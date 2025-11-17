@@ -161,12 +161,7 @@ Alle Modelle enthalten korrekt:
 * `"label_names"`
 * `"metrics"`
 
----
 
-## **Fertig**
-
-Alle Klassifier sind vereinheitlicht, bereinigt und direkt einsatzbereit.
-Single-Label und Multi-Label Inferenz funktioniert nun mit einer identischen API.
 
 ```
 ```
