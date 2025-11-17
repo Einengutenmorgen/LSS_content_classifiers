@@ -1,0 +1,15 @@
+.env
+.DS_Store
+.vscode/
+__pycache__/
+venv/
+test_*
+*__pycache__*/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.npy
+*.zip
+goemotion/goemotions.joblib
+jigsaw/jigsaw.joblib
